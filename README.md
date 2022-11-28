@@ -9,20 +9,3 @@
 [![](https://raw.githubusercontent.com/hamuham/hamuham/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hamuham/hamuham/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hamuham/hamuham/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://activity-graph.herokuapp.com/graph?username=hamuham&theme=github)](https://activity-graph.herokuapp.com/graph?username=hamuham&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=hamuham&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=hamuham&theme=dark)
-
-### Development Environment
-
-- Favorite Languages: Rust, Svelte
-- Editor: Neovim
-- Shell: zsh
-- Terminal: wezterm
-- OS: ArchLinux(sway/i3-gaps)
-- PC: Thinkpad X1 Carbon
-- Keyboard: HHKB hybrid
-- Mouse: GameBall
-- Smartphone: Pixel4a
-
-### Analysis
